@@ -96,3 +96,8 @@ flowchart LR
     E --> F[Train detector]
     F --> G[Evaluate results]
     G --> H[Visualize predictions]
+
+
+## Example results
+
+<img width="1811" height="960" alt="image" src="https://github.com/user-attachments/assets/f4f72db3-94b1-4729-9b20-5a2a7d0a8eb2" />
