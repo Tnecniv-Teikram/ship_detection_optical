@@ -85,6 +85,15 @@ This makes the tutorial especially useful for analysts who want to understand ho
 
 ---
 
+---
+## Example results
+
+<img width="1811" height="960" alt="image" src="https://github.com/user-attachments/assets/f4f72db3-94b1-4729-9b20-5a2a7d0a8eb2" />
+
+---
+
+
+
 ## 🧭 End-to-end workflow
 
 ```mermaid
